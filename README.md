@@ -123,7 +123,21 @@ Publish the website in the LocalHost.
   <section id="about" class="bg-light">
     <div class="container">
       <h2 class="text-center mb-4">About</h2>
-      <p class="text-center">This is a simplified landing page clone inspired by Dribbble, built using Bootstrap. It demonstrates responsive design, cards, and navigation components.</p>
+      <p class="text-center">This is a simplified landing page clone inspired by Dribbble, built using Bootstrap. It demonstrates responsive design, cards, and navigation components.About project
+
+Keckly is a platform that transforms collaboration into powerful investor presentations. The landing page focuses on clarity and teamwork, showing how simple it can be to prepare materials that resonate with investors.
+
+Task
+
+The task was to design a landing page with friendly illustrations and structured content that communicate trust, simplicity, and collaboration. The main goal was to make investor presentations feel accessible and engaging.
+
+Process
+
+We built the structure around bold headlines, minimal typography, and supportive illustration. A hero section introduces the value proposition with a strong tagline and a video CTA. Soft colors and vector characters emphasize teamwork and communication. Layout is kept clean with clear navigation, guiding users to templates, collaboration tools, and FAQ.
+
+Result
+
+The result is a welcoming landing page that blends business clarity with a human touch. Illustrations and layout balance professionalism and friendliness, helping users feel confident while preparing investor materials.</p>
     </div>
   </section>
 
@@ -164,6 +178,7 @@ Publish the website in the LocalHost.
 ```
 # OUTPUT:
 ![alt text](<Screenshot 2025-10-04 221540 - Copy.png>)
-![alt text](<Screenshot 2025-10-04 221558.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-10-05 182441" src="https://github.com/user-attachments/assets/69e578d7-d1fc-4795-b0c4-9cdc2385689e" />
+
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
